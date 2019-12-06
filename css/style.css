@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Play|Solway|Teko&display=swap');
+
+h1{
+    color: blue;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+h2{
+color: coral;
+font: 25px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
+}
+a{
+    color: darkgreen;
+    font: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#texto-carrossel{
+    font-size: 30px;
+}
+
+#texto-carrossel h5{
+    font-size: 80px;
+    color: chartreuse;
+    font-family: fantasy;
+ }
+
+ .div-texto{
+     text-align: center;
+ }
+
+ #imagem-livro{
+     height: 400px;
+     width: 300px;
+     text-align: center;
+ }
