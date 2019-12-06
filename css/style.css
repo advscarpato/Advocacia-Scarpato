@@ -22,7 +22,7 @@ a{
 
 #texto-carrossel h5{
     font-size: 80px;
-    color: chartreuse;
+    color:  red;
     font-family: fantasy;
  }
 
@@ -33,5 +33,9 @@ a{
  #imagem-livro{
      height: 400px;
      width: 300px;
+     text-align: center;
+ }
+
+ .card-imagem-conteiner{
      text-align: center;
  }
